@@ -1,0 +1,5 @@
+Herramienta 
+Visual studio 2019 c#
+Selenium webdriver
+Versión 90.0.4430.2400 (Build oficial) (64 bits)
+Patron de diseño : Screenplay
